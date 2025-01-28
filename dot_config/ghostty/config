@@ -1,0 +1,4 @@
+command = /opt/homebrew/bin/fish --login --interactive
+shell-integration = fish
+font-size = 14
+theme = catppuccin-mocha
