@@ -1,7 +1,7 @@
 -- configs
-vim.cmd.syntax = "on"
 vim.g.have_nerd_font = false
 vim.o.number = true
+vim.o.filetype = "on"
 
 -- share clipboard with OS
 vim.schedule(function()
