@@ -47,6 +47,7 @@ return {
     }
   end,
   keys = {
-    { "<leader><space>", "<cmd>Telescope git_files<cr>", desc = "Find files" }
+    { "<leader><space>", "<cmd>Telescope git_files<cr>", desc = "Find files" },
+    { "<leader>f", "<cmd>Telescope live_grep<cr>", desc = "Find files" },
   }
 }
